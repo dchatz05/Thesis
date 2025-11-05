@@ -1,66 +1,66 @@
 AI & Work-Related Stress
 
-1) How do AI technologies correlate with stress levels among employees
-2) Is there a difference in work-life balance ratings between AI-centered industries and non-AI centered?
-3) Do AI technologies increase or decrease overall job satisfaction?
-4) Are employees in AI related fields (or using AI technologies) more likely to be stressed?
-5) How does AI affect career opportunities
-6) Does using AI improve business outlook ratings (based on various stress levels etc.)
-7) Are freelancers and regular employees affected differently by AI (stress/satisfaction)
-8) How do interns perceive the impact of automation on their future careers?
+1) How do AI technologies correlate with stress levels among employees -- need data
+2) Is there a difference in work-life balance ratings between AI-centered industries and non-AI centered? -- could do
+3) Do AI technologies increase or decrease overall job satisfaction? -- need data
+4) Are employees in AI related fields (or using AI technologies) more likely to be stressed? --need data (could maybe do)
+5) How does AI affect career opportunities -- can't do?
+6) Does using AI improve business outlook ratings (based on various stress levels etc.) -- need data
+7) Are freelancers and regular employees affected differently by AI (stress/satisfaction) -- could do part time / full time
+8) How do interns perceive the impact of automation on their future careers? -- not enough data
 
 --------------------------------------------------------------------------------
 
 General Job Satisfaction
 
-9) What are the main factors that influence employee satisfaction across industries
-10) How do work-life balance, culture and leadership correlate with stress levels?
-11) Are higher compensations and benefits associated with lower stress?
-12) Which features are most predictive of high overall rating 
+9) What are the main factors that influence employee satisfaction across industries -- train models on feature and find top features for ratings
+10) How do work-life balance, culture and leadership correlate with stress levels? -- found
+11) Are higher compensations and benefits associated with lower stress? -- can use ratings instead etc
+12) Which features are most predictive of high overall rating -- use
 
 --------------------------------------------------------------------------------
 
 Mental Health
 
-13) What job titles or industries report the highest stress levels?
-14) Does stress increase with length of employment or is it higher early?
-15) How does stress vary between current and former employees?
-16) Are stress levels related to senior leadership ratings?
-17) What themes/trends (cons) appear most frequently in stressful reviews
+13) What job titles or industries report the highest stress levels? -- can also work with rating
+14) Does stress increase with length of employment or is it higher early? -- could? maybe
+15) How does stress vary between current and former employees? -- maybe?
+16) Are stress levels related to senior leadership ratings? -- maybe
+17) What themes/trends (cons) appear most frequently in stressful reviews -- could work for ratings
 
 --------------------------------------------------------------------------------
 
 Country & Culture
 
-18) How do ratings differ across countries
-19) Are employees in certain regions more likely to recommend to a friend
-20) How does culture and value vary across countries and how does it influence satisfaction and ratings
+18) How do ratings differ across countries -- can
+19) Are employees in certain regions more likely to recommend to a friend -- can
+20) How does culture and value vary across countries and how does it influence satisfaction and ratings -- can
 
 --------------------------------------------------------------------------------
 
 Industries
 
-21) Which industries have the lowest satisfaction, and which the highest (same with stress)
-22) Are industries with higher funding rated higher in career opportunities and outlook
-23) How do CEO approval and business outlook differ by industry and size
+21) Which industries have the lowest satisfaction, and which the highest (same with stress) -- can?
+22) Are industries with higher funding rated higher in career opportunities and outlook -- can
+23) How do CEO approval and business outlook differ by industry and size -- can
 
 --------------------------------------------------------------------------------
 
 Employment Type
 
-24) How do stress levels differ among types of workers
-25) Which types show the highest culture and value satisfaction
-26) Do temporary employees give lower leadership ratings?
-27) Are freelancers more positive about work-life balance
-28) Does remote work increase overall satisfaction - how does it affect quality of work-life balance?
+24) How do stress levels differ among types of workers -- could do
+25) Which types show the highest culture and value satisfaction -- could do
+26) Do temporary employees give lower leadership ratings? -- not enough
+27) Are freelancers more positive about work-life balance -- not enough
+28) Does remote work increase overall satisfaction - how does it affect quality of work-life balance? -- not enough
 
 --------------------------------------------------------------------------------
 
 Pros & Cons
 
-29) What are the most common pros and cons mentioned across all reviews, and how do they differ by industry?
-30) Which words or phrases in pros/cons correlate with high ratings
-31) Can we predict stress or recommendation with NLP on summaries?
+29) What are the most common pros and cons mentioned across all reviews, and how do they differ by industry? -- maybe? NLP
+30) Which words or phrases in pros/cons correlate with high ratings -- maybe
+31) Can we predict stress or recommendation with NLP on summaries? -- maybe
 
 
 
