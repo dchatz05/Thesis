@@ -64,3 +64,15 @@ Pros & Cons
 
 
 
+
+Features to use in predictions for ratings:
+industryName
+country_code
+rating_overall
+rating_ceo 
+rating_business_outlook 
+.. (all ratings)
+length of employment
+location
+employment_status_imputed
+
