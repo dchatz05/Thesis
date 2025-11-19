@@ -7,3 +7,4 @@ catboost_info
 chat_nlp
 testenv
 preprocess_reviews.py
+glassdoor_cleaned.csv
